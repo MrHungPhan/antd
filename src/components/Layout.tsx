@@ -13,9 +13,8 @@ function LayoutCustom() {
         }}
       >
         <Menu theme="dark" mode="inline">
-          <Menu.Item key={1}>Overview</Menu.Item>
           <Menu.Item key={2}>Users</Menu.Item>
-          <Menu.Item key={3}>FPs</Menu.Item>
+          <Menu.Item key={3}>Task</Menu.Item>
           <Menu.Item key={4}>Operators</Menu.Item>
           <Menu.Item key={5}>Contracts</Menu.Item>
           <Menu.Item key={6}>Setting</Menu.Item>
